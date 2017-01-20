@@ -1,0 +1,8 @@
+title: VObject
+description: A full-featured Python package for parsing and creating iCalendar and vCard files
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
