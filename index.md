@@ -268,6 +268,24 @@ u'Harris'
 
 # Release History
 
+### 20 January 2017
+
+**vobject 0.9.4** released ([view](https://github.com/eventable/vobject/releases/tag/0.9.4)).
+
+To install, use `pip install vobject`, or download the archive and untar, run python setup.py install. Tests can be run via python setup.py test. [dateutil](https://pypi.python.org/pypi/python-dateutil/) and [six](https://pypi.python.org/pypi/six) are required. Python 2.7 or higher is required.
+
+##### Release Notes
+
+*   Improved PEP8 compliance
+*   Improved Python 3 compatibility
+*   Improved encoding/decoding
+*   Correct handling of pytz timezones
+*   Added tests.py to the PyPi package
+
+
+***
+
+
 ### 26 August 2016
 
 **vobject 0.9.3** released ([view](https://github.com/eventable/vobject/releases/tag/0.9.3)).
